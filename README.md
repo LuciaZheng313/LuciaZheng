@@ -1,18 +1,9 @@
-# lucia-zheng
-# Identity V Survivor Performance Analysis
+# Lucia Zheng
 
-## Overview
-Exploratory data analysis project on a dataset of 49 game characters, examining performance
-features including Decoding Time, Rocket Chair Ascent Time, and healing metrics.
+🎓 B.S. in Mathematics @ UIUC  
+📊 Interested in data science, statistical modeling, and human–data interaction.
 
-## Methods
-• Threshold-based feature classification  
-• 1,000-iteration Monte-Carlo-style simulation  
-• Visualization and standardized linear regression
+## Selected Projects
 
-## Key Findings
-• Average team decoding time ≈ 435s  
-• Strongest positive predictor: Self-Heal-When-Downed
-
-## Tools
-Python, Pandas, NumPy, Matplotlib
+- [Identity V Survivor Performance Analysis](链接填新仓库的地址)  
+  Exploratory data analysis project using Python, Pandas, simulation, and regression.
